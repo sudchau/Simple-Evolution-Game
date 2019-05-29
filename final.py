@@ -6,8 +6,6 @@ win = pygame.display.set_mode((500, 500))
 pygame.display.set_caption("LET'S TRY TO EVOLVE")
 
 font = pygame.font.SysFont('Comic Sans MS', 30)
-text = font.render('USE CURSORS, PRESS', 0, (255, 255, 255))
-text2 = font.render('RIGHT CONTROL', 0, (255, 255, 255))
 
 class block:
 
